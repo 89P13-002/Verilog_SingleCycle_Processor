@@ -15,4 +15,4 @@ Designed the data path and conroller of the processor.The controller part consis
 
 
 # Reference
-[reference]([https://www.example.com](https://github.com/89P13-002/Verilog_SingleCycle_Processor/blob/main/reference.pdf))
+`[reference](https://www.example.com](https://github.com/89P13-002/Verilog_SingleCycle_Processor/blob/main/reference.pdf)`
