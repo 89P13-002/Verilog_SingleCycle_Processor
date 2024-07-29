@@ -12,7 +12,11 @@ Designed the data path and conroller of the processor.The controller part consis
 5. SUB Ra, Rb, Rc : RF[a] = RF[b]-RF[c] : opcode -> 0100 ra3ra2ra1ra0 rb3rb2rb1rb0 rc3rc2rc1rc0
 6. JMPZ Ra, offset : PC = PC + offset if R[a] is 0 : opcode -> 0101 ra3ra2ra1ra0 o7o6o5o4o3o2o1o0
 
+# Abstract view of design of components and controller
+[abstract view](https://github.com/89P13-002/Verilog_SingleCycle_Processor/blob/main/details_about_datapath_controller.pdf)
 
+# Output for the simultion of sum of natural number
+[output](https://github.com/89P13-002/Verilog_SingleCycle_Processor/blob/main/sum_of_num_output.txt)
 
 # Reference
-[reference](https://github.com/89P13-002/Verilog_SingleCycle_Processor/blob/main/reference.pdf)
+[For details about design](https://github.com/89P13-002/Verilog_SingleCycle_Processor/blob/main/reference.pdf)
