@@ -54,7 +54,7 @@ always @(posedge clk) begin
   $display($time,, "Abhishek ");
 end 
 initial begin
-    #1800 $finish;
+    #1100 $finish;
 end
 
 
